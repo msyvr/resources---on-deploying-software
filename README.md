@@ -1,5 +1,5 @@
-# tips-on-deploying-software
-Tips, links, discussion threads re deploying software
+# resources: on deploying software
+Resources (articles, discussion threads) related to deploying software
 
 # Testing: Travis
 ### 2018.03
