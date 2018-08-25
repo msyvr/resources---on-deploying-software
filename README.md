@@ -1,5 +1,5 @@
 # resources: on deploying software
-It's all in the repo wiki...
+This repo is a wiki-based resource; please see the repo wiki.
 
 
 
